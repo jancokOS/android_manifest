@@ -37,7 +37,7 @@
   <project path="packages/apps/Jelly" name="LineageOS/android_packages_apps_Jelly" />
   <project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" />
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
-  <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />
+  <project path="packages/services/ThemeInterfacer" name="jancokOS/interfacer" remote="github" revision="n-rootless" />
   <project path="system/extras/su" name="LineageOS/android_system_extras_su" />
   <project path="vendor/jos" name="jancokOS/android_vendor_jos" revision="jlos" />
 
