@@ -15,7 +15,7 @@
 
   <remote  name="caf"
            fetch="https://source.codeaurora.org/quic/la"
-           revision="refs/tags/LA.UM.5.8.r1-02700-8x98.0" />
+           revision="refs/tags/LA.UM.5.8.r1-02800-8x98.0" />
 
   <default revision="refs/heads/cm-14.1"
            remote="github"
