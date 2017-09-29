@@ -14,3 +14,6 @@ To initialize your local repository using the jancokOS trees, use a command like
 Then to sync up:
 
     repo sync -j4 --force-sync
+    
+To build, use:
+    mka -jX bacon
