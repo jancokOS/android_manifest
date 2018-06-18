@@ -205,7 +205,7 @@
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk" remote="caf" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk" remote="caf" />
   <project path="external/libvncserver" name="platform/external/libvncserver" groups="pdk" remote="caf" />
-  <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk" remote="caf" />
+  <project path="external/libvorbis" name="jancokOS/android_external_libvorbis" groups="pdk" revision="caf" />
   <project path="external/libvpx" name="LineageOS/android_external_libvpx" groups="pdk" />
   <project path="external/libvterm" name="platform/external/libvterm" groups="pdk" remote="caf" />
   <project path="external/libweave" name="platform/external/libweave" groups="pdk" remote="caf" />
